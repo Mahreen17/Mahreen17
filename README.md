@@ -1,209 +1,88 @@
-<div align="center">
+# Mahreen Begum
 
-```
-███╗   ███╗ █████╗ ██╗  ██╗██████╗ ███████╗███████╗███╗   ██╗
-████╗ ████║██╔══██╗██║  ██║██╔══██╗██╔════╝██╔════╝████╗  ██║
-██╔████╔██║███████║███████║██████╔╝█████╗  █████╗  ██╔██╗ ██║
-██║╚██╔╝██║██╔══██║██╔══██║██╔══██╗██╔══╝  ██╔══╝  ██║╚██╗██║
-██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║███████╗███████╗██║ ╚████║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝
+### Data Analyst | Data Science & Machine Learning Specialist | AI-Driven Solutions
 
-██████╗ ███████╗ ██████╗ ██╗   ██╗███╗   ███╗
-██╔══██╗██╔════╝██╔════╝ ██║   ██║████╗ ████║
-██████╔╝█████╗  ██║  ███╗██║   ██║██╔████╔██║
-██╔══██╗██╔══╝  ██║   ██║██║   ██║██║╚██╔╝██║
-██████╔╝███████╗╚██████╔╝╚██████╔╝██║ ╚═╝ ██║
-╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
-```
+I build systems that turn raw data into decisions — from production-grade machine learning pipelines to agentic AI applications that let people query data in natural language. My work spans the full lifecycle: data cleaning and analysis, statistical modeling, predictive systems, model explainability, and deployment of interactive tools that non-technical users can actually use.
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+Data+Science+Student+🧠;Building+Intelligent+Solutions+🤖;Turning+Data+into+Decisions+📊" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge&labelColor=0d1117)](https://my-portfolio-mahreenbegum17.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Mahreen17-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white)](https://github.com/Mahreen17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahreen-begum)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahreenbegum1723@gmail.com)
-
-</div>
+[GitHub](https://github.com/Mahreen17) · [Portfolio](https://my-portfolio-mahreenbegum17.vercel.app/)
 
 ---
 
-## 👩‍💻 About Me
+## Featured Projects
 
-- 🎓 **AI & Data Science Student** with a passion for building intelligent systems
-- 🤖 **Focus**: Machine Learning, Data Analysis, Explainable AI, and Real-World Applications
-- 🔍 **Currently**: Building production-grade ML solutions and agentic AI systems
-- 📊 **Expertise**: From raw data to actionable insights — I love the entire data science pipeline
-- 🇮🇳 **Location**: India
+### InsightFlow Data Copilot
+An AI-powered data assistant that lets users query structured datasets in plain English and get accurate, grounded answers back — no SQL required.
 
-> *"Data is the new oil. But I prefer to think of it as the new coffee — it keeps everything running and makes conversations more interesting."* ☕
+**Tech stack:** `Google Gemini` `LangChain` `SQL Agents` `RAG` `MCP` `SQLite` `Streamlit`
 
----
-
-## 📈 Quick Stats
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 🔬 **Projects** | 3+ Active AI/ML Projects |
-| 📚 **Languages** | Python, JavaScript, TypeScript, R, Bash |
-| 🎯 **Focus Areas** | ML, Data Analysis, Web Apps, Explainable AI |
-| 🌐 **Live Projects** | 2 Deployed Streamlit Applications |
-
-</div>
+**Why it matters:** Demonstrates a full agentic AI architecture — an LLM reasoning layer paired with retrieval-augmented grounding and tool-calling agents that execute real SQL against a live database. This is the kind of system that makes internal data genuinely self-serve.
 
 ---
 
-## 💻 Tech Stack
+### ChurnGuard
+An interactive ML dashboard that predicts telecom customer churn, explains *why* each customer is at risk, and quantifies the financial impact of retention decisions.
 
-<div align="center">
+**Tech stack:** `Python` `Scikit-learn` `Random Forest` `SHAP` `Pandas` `Streamlit`
 
-### Languages & Core
-<img src="https://skillicons.dev/icons?i=python,js,ts,r,bash&theme=dark" />
-
-### AI / ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-**+ Scikit-learn • Pandas • NumPy • SHAP • LangChain • ChromaDB**
-
-### Web Development & Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,flask&theme=dark" />
-
-### Dev Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark" />
-**+ Streamlit • Docker • Jupyter • Colab**
-
-### Data Visualization
-**Matplotlib • Seaborn • Plotly • Tableau**
-
-</div>
+**Why it matters:** Goes beyond a black-box prediction. SHAP-based explainability makes model output interpretable to business stakeholders, batch CSV scoring supports real operational workflows, and the built-in ROI calculator ties predictions directly to revenue impact — closing the loop between data science and business decision-making.
 
 ---
 
-## 🚀 Featured Projects
+### FitHub
+A web-based AI fitness assistant that uses real-time computer vision to track exercise repetitions and evaluate posture as the user moves.
 
-### 1. 🔮 [InsightFlow AI](https://github.com/Mahreen17/InsightFlow-Data-Copilot)
-> **Agentic AI Data Copilot • LLMs • Multi-Agent Systems • RAG**
+**Tech stack:** `Python` `OpenCV` `MediaPipe` `Flask`
 
-An intelligent data & knowledge assistant that transforms natural language into actionable insights. Using Google Gemini, ChromaDB, and a multi-agent architecture, InsightFlow bridges the gap between users and their data.
+**Why it matters:** Applies pose-estimation and computer vision to a live video stream in real time — a harder engineering problem than static image classification, requiring low-latency inference and robust landmark tracking under variable conditions.
 
-**Try it live:** [https://insightflow-data-copilot.streamlit.app/](https://insightflow-data-copilot.streamlit.app/)
-
-**Key Features:**
-- Natural-language database queries (SQL Agent)
-- Document-based Q&A (RAG Agent)  
-- Source attribution & transparency
-- Multi-agent orchestration
-
-**Tech**: `Python` `Google Gemini API` `Streamlit` `ChromaDB` `SQLite` `LangChain`
 
 ---
 
-### 2. 🛡️ [ChurnGuard](https://github.com/Mahreen17/ChurnGuard)
-> **ML Dashboard • Explainable AI • Telecom Analytics**
+## Technical Skills
 
-A production-grade machine learning dashboard for predicting customer churn in telecom with model explainability using SHAP values. Helps businesses understand why customers leave and take action.
+**Core Languages**
 
-**Key Features:**
-- Random Forest classification model
-- Interactive Streamlit dashboard
-- SHAP-based model interpretability
-- Real-time predictions
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Tech**: `Python` `Scikit-learn` `SHAP` `Streamlit` `Pandas`
+**ML / AI Frameworks**
 
----
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-2E8B57?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-6A5ACD?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
+![GenAI](https://img.shields.io/badge/Generative%20AI-8E75B2?style=flat-square)
 
-### 3. 🏠 [House Price Predictor](https://github.com/Mahreen17/House_Price_predictor)
-> **Regression Model • Web App • Real Estate AI**
+**Data Tools**
 
-A smart property valuation tool powered by regression ML models. Predict house prices based on features and explore the decision-making process behind valuations.
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**Key Features:**
-- Advanced regression algorithms
-- Feature importance analysis
-- Interactive web interface
-- Streamlit deployment
+**Deployment Platforms**
 
-**Tech**: `Python` `Scikit-learn` `Streamlit` `Regression`
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
----
+**Agents & Orchestration**
 
-## 🎯 What I'm Working On
-
-- 🔨 **Building**: Production-grade agentic AI systems and data pipelines
-- 📚 **Learning**: Advanced LLM architectures, vector databases, and enterprise ML
-- 🤝 **Collaborating**: On open-source AI/ML projects and data solutions
-- 📝 **Writing**: Technical blogs on ML, data science, and AI applications
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-| Platform | Link | Notes |
-|----------|------|-------|
-| 🌐 **Portfolio** | [my-portfolio-mahreenbegum17.vercel.app](https://my-portfolio-mahreenbegum17.vercel.app/) | View my full projects & work |
-| 💼 **LinkedIn** | [linkedin.com/in/mahreen-begum](https://www.linkedin.com/in/mahreen-begum) | Let's connect professionally |
-| 🐙 **GitHub** | [github.com/Mahreen17](https://github.com/Mahreen17) | Explore all my repositories |
-| 📧 **Email** | [mahreenbegum1723@gmail.com](mailto:mahreenbegum1723@gmail.com) | Open for collaborations & opportunities |
-
-</div>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-4B0082?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8B0000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-006400?style=flat-square)
 
 ---
 
-## 💡 Latest Interests
+## Connect
 
-- Retrieval-Augmented Generation (RAG) and Vector Databases
-- Multi-Agent AI Systems and Orchestration
-- Explainable AI and Model Interpretability
-- Production ML Pipelines and MLOps
-- AI for Business Applications
+- **GitHub:** [github.com/Mahreen17](https://github.com/Mahreen17)
+- **Portfolio:** [my-portfolio-mahreenbegum17.vercel.app](https://my-portfolio-mahreenbegum17.vercel.app/)
 
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Mahreen17&color=00D9FF&style=flat-square&label=profile+views)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahreen17&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen17&theme=dark&hide_border=true&layout=compact)
-
-</div>
-
----
-
-## 🎓 Philosophy
-
-> *"The best models aren't the most complex—they're the ones that solve real problems and can explain why they make the decisions they do. Data doesn't make decisions; **people** do. I'm here to make data talk louder and clearer."*
-
----
-
-<div align="center">
-
-### Let's Build Something Amazing Together 🚀
-
-**"Keep shipping. Keep learning. The data never lies."**
-
-[Open an Issue](https://github.com/Mahreen17/InsightFlow-Data-Copilot/issues) • [Start a Discussion](https://github.com/Mahreen17/InsightFlow-Data-Copilot/discussions) • [Get in Touch](mailto:mahreenbegum1723@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*Last updated: August 2026 | Always learning, always building* 🧠✨
-
-</div>
+Open to data science, machine learning, and AI engineering roles and collaborations. Reach out through the portfolio site or GitHub.
